@@ -1,0 +1,2 @@
+/home/night_whisper/ros2_humble/install/ros2topic
+
